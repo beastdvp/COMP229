@@ -1,0 +1,35 @@
+{
+  "name": "comp229-midterm",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^15.0.0",
+    "npm": "^7.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.5.1",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.2",
+    "morgan": "~1.9.1",
+    "popper.js": "^1.16.1"
+  },
+  "description": "midterm app for comp229",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/beastdvp/COMP229.git)"
+  },
+  "author": "Sheikh",
+  "license": "ISC"
+}
